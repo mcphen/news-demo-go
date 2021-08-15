@@ -1,0 +1,2 @@
+package github.com/mcphen/news-demo-go
+	imports github.com/mcphen/news-demo-go: import cycle not allowed
